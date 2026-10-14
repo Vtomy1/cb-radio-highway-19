@@ -1,0 +1,6 @@
+{
+  "name": "Highway 19: CB Radio Transceiver Simulator",
+  "description": "An authentic 40-channel Citizens Band (CB) radio transceiver simulation with interactive analog S/RF meters, real Web Audio squelch gate, push-to-talk mic, live highway trucker chatter, and 10-code dispatch.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
